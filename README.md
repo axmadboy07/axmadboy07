@@ -8,13 +8,18 @@
 
 ### 💡 About Me
 
-- 👤 **Name:** axmadboy033-create
-- 🎂 **Born:** 19/08/2007
-- 💙 **Hobby:** Coding & Web Development
-- ⚛️ **Learning:** HTML • CSS • JavaScript • React
-- 🚀 **Status:** Front-End Developer in Progress
+```
+### 💡 About Me
 
----
+- 👤 Name: **axmadboy033-create**
+- 🎂 Born: **19/08/2007**
+- 💙 Hobby: **Coding & Web Development**
+- ⚛️ Learning: **HTML • CSS • JavaScript • React**
+- 🚀 Status: **Front-End Developer in Progress**
+```
+
+
+----
 
 ### 🛠 Tech
 
